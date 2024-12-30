@@ -29,6 +29,7 @@ const jwtAuthMiddleware = (req, res, next) => {
 }
 
 
+
 //Function to generate the Token
 
 const generateToken = (userData) =>{
