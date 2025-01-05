@@ -28,6 +28,7 @@ const jwtAuthMiddleware = (req, res, next) => {
     }
 }
 
+// somethigs
 
 
 //Function to generate the Token
